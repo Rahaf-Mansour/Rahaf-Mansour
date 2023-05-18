@@ -4,7 +4,7 @@
 <ul>
 <li>👋 My name is Rahaf Mansour </li>
 <li>💻 I am a Computer Engineering Student at Al-Quds University </li>
-<li>🌱 I always keen to learn newthings </li>
+<li>🌱 I always keen to learn new things </li>
 <li> 💞️ Competed in "START HACK" Europe's largest hackathon, which took place in Switzerland in 2023 </li>
 <li> 😄 Sociable and helpful person </li>
 </ul>
