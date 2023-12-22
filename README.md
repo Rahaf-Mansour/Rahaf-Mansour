@@ -7,16 +7,21 @@
 <li> 🌱 I always keen to learn new things </li>
 <li> 💞️ Competed in "START HACK" Europe's largest hackathon, which took place in Switzerland in March 2023 </li>
 <li> 😄 Sociable and helpful person </li>
-<li> 😎 I'm currently learning React in depth with TypeScript from top-rating Udemy Courses </li>
+<li> 😎 I'm currently learning React.js in depth from one of the top-rating Udemy Courses </li>
 </ul>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 
 <h2>Tools and Languages 🛠:</h2> 
 
+<!-- 
 ##### JS & TS 🟡🔵
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
+-->
+
+##### JS 🟡
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ##### React.js 💙
 ![React](https://img.shields.io/badge/-React-61dbfb?logo=react&logoColor=black&style=for-the-badge)
