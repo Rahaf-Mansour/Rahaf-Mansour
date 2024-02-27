@@ -14,14 +14,10 @@
 
 <h2>Tools and Languages 🛠:</h2> 
 
-<!-- 
+
 ##### JS & TS 🟡🔵
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)
--->
-
-##### JS 🟡
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ##### React.js 💙
 ![React](https://img.shields.io/badge/-React-61dbfb?logo=react&logoColor=black&style=for-the-badge)
